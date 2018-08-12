@@ -1669,7 +1669,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,160.3,126.9);
 			self.gotoAndPlay(4);
 		}
 		
-		createjs.Sound.registerSound("https://Hila-Mann.github.io/animate/thelionV2/sounds/CutTheRopeMusicCutnewwav.mp3","song");
+		createjs.Sound.registerSound("https://Hila-Mann.github.io/animate/thelionv2/sounds/CutTheRopeMusicCutnewwav.mp3","song");
 		//ניתן להשתמש במבחר הפונטים הזמינים בגוגל
 		// https://fonts.google.com/?subset=hebrew
 		WebFontConfig = {
@@ -2144,7 +2144,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/the_lion_atlas_.png?1534076629372", id:"the_lion_atlas_"}
+		{src:"images/the_lion_atlas_.png?1534077220338", id:"the_lion_atlas_"}
 	],
 	preloads: []
 };
